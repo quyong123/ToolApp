@@ -4,12 +4,12 @@
             "changelog": "",
             "fileconfig": [
                 {
-                    "download-url": " https://raw.githubusercontent.com/quyong123/ToolApp/master/ToolAppRemote/111/20181203_212705.log",
-                    "filename": "111/20181203_212705.log",
+                    "download-url": " https://raw.githubusercontent.com/quyong123/ToolApp/master/ToolAppRemote/111/新建文本文档.txt",
+                    "filename": "111/新建文本文档.txt",
                     "latest-version": "1.0"
                 }
             ],
-            "version": "1.1"
+            "version": "1.2"
         }
     }
 }
