@@ -1,0 +1,15 @@
+{
+    "updates": {
+        "windows": {
+            "changelog": "",
+            "fileconfig": [
+                {
+                    "download-url": "https://gitee.com/monli/ToolApp/raw/master/ToolAppRemote/新建文件夹/20181203_212705.log",
+                    "filename": "新建文件夹/20181203_212705.log",
+                    "latest-version": "1.0"
+                }
+            ],
+            "version": "1.0"
+        }
+    }
+}
